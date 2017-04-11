@@ -14,7 +14,7 @@ use Think\Controller\RestController;
  * 分销公共控制器
  */
 class CommonController extends RestController {
-
+asdf
     protected $uniacid;
     protected $token;
 
